@@ -11,6 +11,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://manhwa-spoilers.vercel.app/secret-class.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://manhwa-spoilers.vercel.app/teachers-lesson-manhwa.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -2462,11 +2467,6 @@
   </url>
   <url>
     <loc>https://manhwa-spoilers.vercel.app/e-romance-manhwa.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://manhwa-spoilers.vercel.app/secret-class.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
   </url>
