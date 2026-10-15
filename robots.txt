@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manhwa-spoilers.vercel.app/sitemap.xml
